@@ -6,6 +6,6 @@ This project is an automated bell system for school, collegee, hospital,public p
 we developed the prototype of the system we intended to implement using arduino UNO. 
 Don't forget to contribute back to this project so folks forking this project after you get an even better starting point. always share what you have accomplished so folks like you and me (coders) can save alot of coding time.
 
-thanks.
+thanks, ya all..
 
-Nikhil Disale.
+Nikhil Disale, Vishvajeet Mali, Kunal Thombare.
